@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "prompt-studio",
+  "version": "1.0.0",
+  "description": "Save prompts and generated outputs to Prompt Studio, and fetch a saved prompt when you want to use it. OAuth only. The hosted server does not run models.",
+  "author": {
+    "name": "Quick One B.V.",
+    "url": "https://promptstudio.app"
+  },
+  "homepage": "https://promptstudio.app/mcp",
+  "repository": "https://github.com/promptalchemy/prompt-studio-mcp",
+  "license": "MIT",
+  "keywords": [
+    "prompt-studio",
+    "prompts",
+    "mcp",
+    "oauth",
+    "library"
+  ]
+}
