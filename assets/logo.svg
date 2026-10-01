@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Prompt Studio">
+  <rect width="128" height="128" rx="28" fill="#1C1915"/>
+  <rect x="28" y="36" width="72" height="8" rx="4" fill="#F6F1E7"/>
+  <rect x="28" y="54" width="52" height="8" rx="4" fill="#F6F1E7"/>
+  <rect x="28" y="72" width="36" height="8" rx="4" fill="#E7A23A"/>
+  <circle cx="92" cy="86" r="8" fill="#E7A23A"/>
+</svg>

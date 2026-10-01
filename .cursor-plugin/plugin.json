@@ -1,0 +1,34 @@
+{
+  "name": "prompt-studio",
+  "displayName": "Prompt Studio",
+  "version": "1.0.0",
+  "description": "Save prompts and generated outputs to Prompt Studio, and fetch a saved prompt when you want to use it. Connects with OAuth. The hosted server does not run models.",
+  "author": {
+    "name": "Quick One B.V."
+  },
+  "publisher": "Quick One B.V.",
+  "homepage": "https://promptstudio.app/mcp",
+  "repository": "https://github.com/promptalchemy/prompt-studio-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "prompt-studio",
+    "prompts",
+    "mcp",
+    "oauth",
+    "library"
+  ],
+  "category": "integrations",
+  "tags": [
+    "mcp",
+    "prompts",
+    "oauth"
+  ],
+  "skills": "./skills/",
+  "mcpServers": {
+    "prompt-studio": {
+      "type": "http",
+      "url": "https://mcp.promptstudio.app/mcp"
+    }
+  }
+}
